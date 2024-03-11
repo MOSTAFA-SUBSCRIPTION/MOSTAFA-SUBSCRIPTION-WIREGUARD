@@ -1,5 +1,4 @@
-warp://188.114.97.144:1014/?ifp=5-10
-warp://188.114.97.167:1701/?ifp=5-10
-warp://162.159.192.144:946/?ifp=5-10
-warp://188.114.98.224:2408/?ifp=5-10
-warp://162.159.192.115:946/?ifp=5-10
+warp://8oZ0I3h7-59O27Tvn-0czTL324@auto
+warp://0s2Nrb37-CX7016tb-184He0JV@auto
+warp://3j1R86vX-3xGU96R5-hAt9586N@auto
+warp://2q0h1jk6-V58P79YD-6XjL958Q@auto
